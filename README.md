@@ -31,6 +31,6 @@ Currently working at the **Ghana Atomic Energy Commission** as a National Servic
 
 ## 📫 Contact
 - **Email:** jorkorlyn@gmail.com
-- **LinkedIn:** [LinkedIn Link](www.linkedin.com/in/genevieve-adjokor-adjetey-933a1023)
+- **LinkedIn:** [LinkedIn Link](https://www.linkedin.com/in/genevieve-adjokor-adjetey-933a10233/)
 - **GitHub:** [GitHub Link](https://github.com/Adjokor)
 
