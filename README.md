@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @Adjokor
-- 👀 I’m interested in Data analytics and software engineering
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on software projects
-- 📫 How to reach me adjeteygenevieve858@gmail.com
+# 🛡 Cybersecurity Portfolio – Genevieve Adjokor Adjetey
 
-<!---
-Adjokor/Adjokor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👩‍💻 About Me
+I am a cybersecurity enthusiast and penetration tester with hands-on experience in network security, vulnerability assessment, and incident response.  
+Currently working at the **Ghana Atomic Energy Commission** as a National Service personnel in penetration testing.
+
+## 🎯 Skills
+- Penetration Testing (Nmap, Nessus, OpenVas, Metasploit, Burp Suite)
+- Digital Forensics (Autopsy, FTK Imager)
+- Network Security (Firewalls, IDS/IPS)
+- Incident Response & Malware Analysis
+- Scripting: Python, Bash
+
+## 🛡 Featured Projects
+
+### 1. Web Application Penetration Test
+- **Tools:** OWASP ZAP, Burp Suite, Nmap, Nessus, OpenVas
+- **Description:** Identified and documented vulnerabilities in a test web application.
+- [View Report](penetration-testing/vulnerability-report-template.docx)
+
+### 2. Phishing Email Detection Script
+- **Tools:** Python, Regex
+- **Description:** Script to detect suspicious keywords and links in incoming emails.
+- [View Code](incident-response/log-analysis-tool.py)
+
+## 📜 Certifications
+- Cisco – Introduction to Cybersecurity
+- Cisco – Cybersecurity Essentials
+- Cisco – Networking Basics
+- Cisco - IT Customer Support
+
+## 📫 Contact
+- **Email:** jorkorlyn@gmail.com
+- **LinkedIn:** [LinkedIn Link](www.linkedin.com/in/genevieve-adjokor-adjetey-933a1023)
+- **GitHub:** [GitHub Link](https://github.com/Adjokor)
+
