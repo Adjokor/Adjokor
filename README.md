@@ -1,7 +1,7 @@
-# 🛡 Cybersecurity Portfolio – Genevieve Adjokor Adjetey
+# 🛡 Genevieve Adjokor Adjetey
 
 ## 👩‍💻 About Me
-I am a cybersecurity enthusiast and penetration tester with hands-on experience in network security, vulnerability assessment, and incident response.  
+I am a cybersecurity analyst/penetration tester with hands-on experience in network security, vulnerability assessment and analysis, and incident response.  
 Currently working at the **Ghana Atomic Energy Commission** as a National Service personnel in penetration testing.
 
 ## 🎯 Skills
